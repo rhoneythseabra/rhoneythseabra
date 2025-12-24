@@ -6,6 +6,7 @@
 <li>💻 Estudante de Programação (focado no Backend)</li>
 <li>🌱 Apaixonado por Tecnologia, Códigos e Framework</li>
 <li>🎓 Formado em ADS pela UNINASSAU, Certificado AWS (CLF - C02)</li>
+<li>👨🏾‍🏫 Instrutor Freelancer de POO</li>  
 </ul>
 
 🚀 Habilidades:
